@@ -1,17 +1,157 @@
-<svg width="300" height="165" viewBox="0 0 300 165" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Most Used Languages: C, C++">
-  <title>Most Used Languages</title>
-  <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
-    .lang { font: 400 15px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
-  </style>
-  <rect x="0.5" y="0.5" rx="4.5" height="164" width="299" stroke="#e4e2e2" fill="#1a1b27" stroke-opacity="0.35"/>
-  <text x="25" y="35" class="header">Most Used Languages</text>
-  <g transform="translate(25, 62)">
-    <image x="0" y="0" width="34" height="34" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjYTliYWNkIiBkPSJNMTI1IDUwYy00LTMyLTI0LTUwLTYyLTUwQzI5IDAgMyAyNCAzIDY0YzAgMzkgMjQgNjQgNjQgNjQgMzIgMCA1NS0xOSA1OC01MEg4N2MtMiAxMS04IDIwLTIwIDIwLTIxIDAtMjQtMTYtMjQtMzMgMC0yMyA4LTM1IDIyLTM1IDEzIDAgMjAgNyAyMiAyMHoiIC8+PC9zdmc+Cg=="/>
-    <text x="46" y="23" class="lang">C</text>
-  </g>
-  <g transform="translate(25, 108)">
-    <image x="0" y="0" width="34" height="34" xlink:href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBmaWxsPSIjMDA1OTljIiBkPSJNMTE4Ljc2NiA5NS44MmMuODktMS41NDMgMS40NDEtMy4yOCAxLjQ0MS00Ljg0M1YzNi43OGMwLTEuNTU4LS41NS0zLjI5Ny0xLjQ0MS00Ljg0bC01NS4zMiAzMS45NFptMCAwIi8+CiAgPHBhdGggZmlsbD0iIzAwNDQ4MiIgZD0ibTY4LjM2IDEyNi41ODYgNDYuOTMzLTI3LjA5NGMxLjM1Mi0uNzgxIDIuNTgyLTIuMTI5IDMuNDczLTMuNjcybC01NS4zMi0zMS45NEw4LjEyIDk1LjgyYy44OSAxLjU0MyAyLjEyMSAyLjg5IDMuNDczIDMuNjcybDQ2LjkzMyAyNy4wOTRjMi43MDMgMS41NjIgNy4xMyAxLjU2MiA5LjgzMiAwWm0wIDAiLz4KICA8cGF0aCBmaWxsPSIjNjU5YWQyIiBkPSJNMTE4Ljc2NiAzMS45NDFjLS44OTEtMS41NDYtMi4xMjEtMi44OTQtMy40NzMtMy42NzFMNjguMzU5IDEuMTcyYy0yLjcwMy0xLjU2My03LjEyOS0xLjU2My05LjgzMiAwTDExLjU5NCAyOC4yN0M4Ljg5IDI5LjgyOCA2LjY4IDMzLjY2IDYuNjggMzYuNzh2NTQuMTk2YzAgMS41NjIuNTUgMy4zIDEuNDQxIDQuODQzTDYzLjQ0NSA2My44OFptMCAwIi8+CiAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYzLjQ0NSAyNi4wMzVjLTIwLjg2NyAwLTM3Ljg0MyAxNi45NzctMzcuODQzIDM3Ljg0NHMxNi45NzYgMzcuODQ0IDM3Ljg0MyAzNy44NDRjMTMuNDY1IDAgMjYuMDI0LTcuMjQ3IDMyLjc3LTE4LjkxTDc5Ljg0IDczLjMzNWMtMy4zOCA1Ljg0LTkuNjYgOS40NjUtMTYuMzk1IDkuNDY1LTEwLjQzMyAwLTE4LjkyMi04LjQ4OC0xOC45MjItMTguOTIyIDAtMTAuNDM0IDguNDktMTguOTIyIDE4LjkyMi0xOC45MjIgNi43MyAwIDEzLjAxNyAzLjYyOSAxNi4zOSA5LjQ2NWwxNi4zOC05LjQ3N2MtNi43NS0xMS42NjQtMTkuMzA1LTE4LjkxLTMyLjc3LTE4Ljkxek05Mi44OCA1Ny41N3Y0LjIwN2gtNC4yMDd2NC4yMDNoNC4yMDd2NC4yMDdoNC4yMDNWNjUuOThoNC4yMDN2LTQuMjAzaC00LjIwM1Y1Ny41N0g5Mi44OHptMTUuNzY2IDB2NC4yMDdoLTQuMjA0djQuMjAzaDQuMjA0djQuMjA3aDQuMjA3VjY1Ljk4aDQuMjAzdi00LjIwM2gtNC4yMDNWNTcuNTdoLTQuMjA3eiIvPgo8L3N2Zz4K"/>
-    <text x="46" y="23" class="lang">C++</text>
-  </g>
-</svg>
+
+      <svg
+        width="300"
+        height="85"
+        viewBox="0 0 300 85"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+        role="img"
+        aria-labelledby="descId"
+      >
+        <title id="titleId"></title>
+        <desc id="descId"></desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+            fill: #70a5fd;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
+          
+    .lang-name {
+      font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae;
+    }
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s ease-in-out forwards;
+    }
+    .lang-progress {
+      animation: growWidthAnimation 0.6s ease-in-out forwards;
+    }
+    #rect-mask rect {
+      animation: slideInAnimation 1s ease-in-out forwards;
+    }
+    @keyframes progressAnimation {
+      from {
+        width: 0;
+      }
+    }
+    @keyframes slideInAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: calc(100%-100px);
+      }
+    }
+    @keyframes growWidthAnimation {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
+    @keyframes fadeInAnimation {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+  
+
+          
+      /* Animations */
+      @keyframes scaleInAnimation {
+        from {
+          transform: translate(-5px, 5px) scale(0);
+        }
+        to {
+          transform: translate(-5px, 5px) scale(1);
+        }
+      }
+      @keyframes fadeInAnimation {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      @keyframes slideInAnimation {
+        from {
+          transform: translateX(-10px);
+          opacity: 0;
+        }
+        to {
+          transform: translateX(0);
+          opacity: 1;
+        }
+      }
+      @keyframes bounceInAnimation {
+        0% {
+          transform: scale(0.3);
+          opacity: 0;
+        }
+        50% {
+          transform: scale(1.05);
+        }
+        70% {
+          transform: scale(0.9);
+        }
+        100% {
+          transform: scale(1);
+          opacity: 1;
+        }
+      }
+    
+          
+        </style>
+
+        
+
+        <rect
+          data-testid="card-bg"
+          x="0.5"
+          y="0.5"
+          rx="4.5"
+          height="99%"
+          stroke="#e4e2e2"
+          width="299"
+          fill="#1a1b27"
+          stroke-opacity="1.0"
+        />
+
+        
+      <g
+        data-testid="card-title"
+        transform="translate(25, 35)"
+      >
+        <g transform="translate(0, 0)">
+      <text
+        x="0"
+        y="0"
+        class="header"
+        data-testid="header"
+      >Most Used Languages</text>
+    </g>
+      </g>
+    
+
+        <g
+          data-testid="main-card-body"
+          transform="translate(0, 55)"
+        >
+          
+    <svg data-testid="lang-items" x="25">
+      
+    </svg>
+  
+        </g>
+      </svg>
+    
