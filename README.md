@@ -4,15 +4,8 @@
 ###
 
 <div align="center">
-  <img src="./profile/stats.svg" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img src="./profile/stats.svg" height="165" alt="stats graph"  />
+  <img src="./profile/top-langs.svg" height="165" alt="languages graph"  />
 </div>
 
 ###
