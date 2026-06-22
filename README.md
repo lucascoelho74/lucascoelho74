@@ -1,5 +1,5 @@
 # lucascoelho74
-<h2 align="left">Hi 👋! My name is Lucas Coelho and I'm a Future Back-End Developer, from Brazil</h2>
+<h2 align="left"> My name is Lucas Coelho and I'm a Future Back-End Developer, from Brazil</h2>
 
 ###
 
